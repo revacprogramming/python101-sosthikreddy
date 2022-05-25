@@ -1,4 +1,5 @@
 '''hrs = float(input("Enter Hours:"))
+
 rt = float(input("enter the rate"))
 if hrs<=40:
     print(hrs*rt)
