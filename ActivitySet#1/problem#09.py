@@ -6,6 +6,5 @@ for line in fh:
     for tt in line.split():
         if tt not in ll:
             ll.append(tt)
-
 print(sorted(ll))
 
